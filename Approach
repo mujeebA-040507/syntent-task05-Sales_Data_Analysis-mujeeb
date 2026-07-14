@@ -1,0 +1,6 @@
+Algorithm:
+Loaded the Superstore Sales dataset into Google Colab.
+Explored the dataset and checked for missing values and data types.
+Cleaned and prepared the data for analysis.
+Converted the order date into a datetime format for monthly trend analysis.
+Generated visualizations and summarized key business insights.
